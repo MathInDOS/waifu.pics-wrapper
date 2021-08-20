@@ -1,3 +1,5 @@
+# waifu.pics
+
 An unofficial API wrapper for [Waifu.pics](https://waifu.pics/docs) for easy to use.
 
 # Why?
@@ -28,4 +30,4 @@ getSFWImage('waifu').then(result => {
 
 ## License
 
-Refer to the [License]() file
+Refer to the [license](https://github.com/MathInDOS/waifu.pics-wrapper/edit/main/README.md) file.
