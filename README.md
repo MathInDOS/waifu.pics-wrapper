@@ -30,4 +30,4 @@ getSFWImage('waifu').then(result => {
 
 ## License
 
-Refer to the [license](https://github.com/MathInDOS/waifu.pics-wrapper/edit/main/README.md) file.
+Refer to the [license](https://github.com/MathInDOS/waifu.pics-wrapper/edit/main/LICENSE) file.
